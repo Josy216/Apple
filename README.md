@@ -6,7 +6,7 @@ A **fully responsive** Apple-inspired website showcasing a sleek, modern design 
 [https://jocoded-atevang.netlify.app/](https://jocoded-atevang.netlify.app/)
 
 ## 💻 Code Repository  
-[GitHub - apple-clone-react-node](https://github.com/your-username/apple-clone-react-node)
+[GitHub - apple-clone-react-node]([https://github.com/Josy216/Apple](https://github.com/Josy216/Apple/))
 
 ---
 
